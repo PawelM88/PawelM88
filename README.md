@@ -18,12 +18,13 @@
 </div>
 
 <div align="center">
-  <img src="https://i.gifer.com/6N3o.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### 👨‍💻_technologist: About Me :
 - :blush: I am a beginner web developer from Poland. 
 - :brain: I deepen my knowledge in PHP and Laravel. 
 - :muscle: Currently I enjoy building side project in my free time.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](tutaj adres mojego LinkedIn)
+- :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
