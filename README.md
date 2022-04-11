@@ -11,6 +11,10 @@ I am a beginner web developer from Poland, specifically from Silesia. I deepen m
   </a>
 </div>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=PawelM88">
+  </div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
