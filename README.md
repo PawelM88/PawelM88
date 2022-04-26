@@ -4,7 +4,7 @@
       <a href="https://www.facebook.com/profile.php?id=100001197905912">
         <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white?&style=for-the-badge" alt="Facebook Badge"/>
       </a>
-      <a href="tutaj adres mojego LinkedIn">
+      <a href="https://www.linkedin.com/in/pawe%C5%82-m%C5%82ynarczyk-0a784b237/">
         <img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
     </div>
