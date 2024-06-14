@@ -21,9 +21,8 @@
 ---
 
 ### 👨‍💻_technologist: About Me :
-- :blush: I am a beginner web developer from Poland. 
-- :brain: I deepen my knowledge in PHP and Laravel. 
-- :muscle: Currently I enjoy building side project in my free time.
+- :brain: I have 2 years experience in php and e-commerce Spryker 
+- :muscle: I am ready to expand my knowledge with new frameworks and ec-commerce
 - :mailbox:How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
 
 ---
