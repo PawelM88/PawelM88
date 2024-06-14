@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200"/>
-    <div id="badges">
-      <a href="https://www.facebook.com/profile.php?id=100001197905912">
-        <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white?&style=for-the-badge" alt="Facebook Badge"/>
-      </a>
+    <div id="badges">   
       <a href="https://www.linkedin.com/in/pawe%C5%82-m%C5%82ynarczyk-0a784b237/">
         <img src="https://img.shields.io/badge/LinkedIn-informational?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
       </a>
